@@ -2,8 +2,8 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Todas las cuentas</div>
+    <div>Reflejo</div>
   )
 }
 
-export default page
+export default page 
